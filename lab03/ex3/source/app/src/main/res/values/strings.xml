@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_activity_web_view">My Web Browser</string>
+    <string name="app_name">Browser Launcher</string>
+    <string name="url_label">Nhập đường link trang web</string>
+    <string name="url_hint">http://www.example.com</string>
+    <string name="open_browser_button">MỞ TRÌNH DUYỆT</string>
+    <string name="url_empty_error">Please enter a web address</string>
+    <string name="no_browser_error">Cannot open link: No web browser found.</string>
+    <string name="invalid_url_error">Invalid web address format</string>
+</resources>

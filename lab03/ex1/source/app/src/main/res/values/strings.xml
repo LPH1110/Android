@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Login App</string> <string name="login_welcome">Xin chào, vui lòng đăng nhập</string>
+    <string name="email_hint">Enter your email</string> <string name="login_button">ĐĂNG NHẬP</string>
+    <string name="goodbye_message">Hẹn gặp lại</string>
+    <string name="empty_email_alert">Please enter your email</string>
+
+    <string name="profile_welcome">Xin chào, %1$s. Vui lòng nhập tên</string> <string name="name_hint">Nhập tên</string> <string name="save_exit_button">LƯU VÀ THOÁT</string>
+    <string name="empty_name_alert">Please enter your name</string>
+</resources>
